@@ -14,6 +14,9 @@ Since I learned to program, I enjoy doing it day by day.
   <img src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' width='70'>
   <img src='https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif' width='70'>
   <img src='https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif' width='70'>
+  <img src='https://i.postimg.cc/XNG8qjV9/nexjs-removebg-preview.png' width='80'/>
+  <br />
+  <img src='https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif' width='110'>
 </div>
 
 ### 📫 How to reach me?
