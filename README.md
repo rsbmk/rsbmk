@@ -4,6 +4,9 @@
 I am a Dominican guy who loves what he does as a web developer.
 Since I learned to program, I enjoy doing it day by day.
 
+I am a Frontend developer and for me, there is nothing more rewarding than seeing a design made from code.
+Currently I am preparing to be FullStack in the not too distant future, although I have already done some REST API's.
+
 ✨*I love learning something new every day*
 <img align='center' src='https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif' width='50'> ✨
 
