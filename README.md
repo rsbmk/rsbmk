@@ -8,16 +8,13 @@ Since I learned to program, I enjoy doing it day by day.
 <img align='center' src='https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif' width='50'> ✨
 
 ### Skills
-<div display='flex'>
-  <img src='https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif' width='70'>
-  <img src='https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif' width='70'>
-  <img src='https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif' width='70'>
-  <img src='https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif' width='70'>
-  <img src='https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif' width='70'>
-  <img src='https://i.postimg.cc/XNG8qjV9/nexjs-removebg-preview.png' width='80'/>
-  <br />
-  <img src='https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif' width='110'>
-</div>
+- React Js | Next Js ⚛
+- HTML, CSS & JavaScript ❤
+- Tailwind | Styled-components | CSS Modules 💅
+- Node Js | Exprees 💚
+- GIT | Github Actions 😺
+- MongoDB | MySQL 🥬
+- Figma | Sketch | Zeplin
 
 ### 📫 How to reach me?
 - [Instagram](https://instagram.com/rsbmk)
