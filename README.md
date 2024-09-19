@@ -4,7 +4,7 @@
 I am a Dominican guy who loves what he does as a web developer.
 Since I learned to program, I enjoy doing it day by day.
 
-I am a Web Developer, passionate about code. Trying to improve every day and meet all the challenges I encounter.
+Passionate about code. Trying to improve every day and meet all the challenges I encounter.
 Without fear of success 👨‍💻
 
 ✨*I love learning something new every day*
