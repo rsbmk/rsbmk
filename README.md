@@ -2,6 +2,7 @@
 <img align='right' src='https://media.giphy.com/media/evEgbkGON3VJ2YrGjM/giphy.gif' width='300'>
 
 I am a Dominican guy who loves what he does as a web developer.
+
 Since I learned to program, I enjoy doing it day by day.
 
 Passionate about code. Trying to improve every day and meet all the challenges I encounter.
